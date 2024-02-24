@@ -9,7 +9,7 @@
     "content_scripts": [
         {
             "matches": [
-                "*://chat.openai.com/*"
+                "*://Hass.biohazard.network/*"
             ],
             "js": [
                 "contentScript.js"
